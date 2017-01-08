@@ -1,2 +1,3 @@
 # Hello-world
-Beginner in EGCO112
+Sleepy
+Mingmanas Sivaraksa
